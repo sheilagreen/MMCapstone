@@ -48,8 +48,8 @@ A team seeded **7 or higher** that made the **Final Four**. That gave me **14 up
 
 ## My Biggest Findings
 
-- **AdjEM is the #1 predictor.** Upset teams had 85% higher efficiency margin than non-upset seed 7+ teams (19.17 vs. 10.35)
-- **Defense matters more than offense.** AdjDE correlation: r = -0.116 vs. AdjOE: r = +0.078
+- **Adjusted Efficiency Margin is the #1 predictor.** Upset teams had 85% higher efficiency margin than non-upset seed 7+ teams (19.17 vs. 10.35)
+- **Defense matters more than offense.** Adjusted Defensive Efficiency correlation: r = -0.116 vs. AdjOE: r = +0.078
 - **Traditional stats are useless.** eFG% had basically zero correlation with upsets (r = +0.004)
 - **11-seeds upset the most.** 5 of 14 total upsets, highest rate at 4.27%
 - **Vulnerable top-2 seeds underperform.** Only 14.3% made Final Four vs. 27.5% for non-vulnerable
