@@ -17,7 +17,8 @@
 
 ## My Topic
 
-I'm analyzing **what factors predict upsets in March Madness** — specifically, whether advanced team stats predict upsets better than just looking at seed alone.
+I'm analyzing **what factors predict upsets in March Madness**, specifically, whether advanced team stats predict upsets better than just looking at seed alone.
+> "I'm looking at whether advanced efficiency metrics can identify which lower-seeded teams are likely to make deep March Madness runs, and my EDA shows that adjusted efficiency margin and defensive efficiency are way more predictive than traditional stats like shooting percentage."
 
 ---
 
@@ -66,16 +67,10 @@ A team seeded **7 or higher** that made the **Final Four**. That gave me **14 up
 
 ---
 
-## If He Asks About Challenges
+## Challenges
 
-- 76 columns have missing data, but those are advanced metrics not tracked in earlier seasons — my core variables are clean
+- 76 columns have missing data, but those are advanced metrics not tracked in earlier seasons, showing my core variables are clean
 - Class imbalance (only 1.4% upsets) will be the main modeling challenge
 - Data was comprehensive enough that I didn't need to merge multiple sources
-
----
-
-## One-Liner
-
-> "I'm looking at whether advanced efficiency metrics can identify which lower-seeded teams are likely to make deep March Madness runs, and my EDA shows that adjusted efficiency margin and defensive efficiency are way more predictive than traditional stats like shooting percentage."
 
 ---
